@@ -1,0 +1,27 @@
+.nav-item .nav-link:hover{
+    text-decoration: underline;
+}
+
+
+
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+}
+
+.carousel-caption{
+    bottom: 200px;
+    z-index: 2;
+}
+.carousel-caption h5{
+    letter-spacing: 2px;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
+.carousel-caption p{
+    margin: auto;
+}
+.carousel-caption-1{
+    color: black;
+}
